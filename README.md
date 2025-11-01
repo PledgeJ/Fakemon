@@ -1,8 +1,8 @@
 # FAKEMON
 
-I put this on here because its the first proper project I ever did, and I think it was cool considering how new I was to programming. What I find quite funny now is the 2000 line script of animations what I hand typed (I have no idea how I got the motivation to do that). There are definitely a couple of bugs but most of them seem to be very specific.  
+I put this on here because its the first proper project I ever did, and I think it was cool considering how new I was to programming. What I find quite funny now is the 2000 line script of animations that I hand typed (I have no idea how I got the motivation to do that). There are definitely a couple of bugs but most of them seem to be very specific.  
   
-You get given a random team of pokemon with a random set of moves (There's some logic as to which pokemon get which moves, but there's a big gap between me doing the project and me writing this script). You then either battle a wild pokemon or a trainer. Winning gives you points and it's game over if you lose the battle. I added pokeballs to catch the wild pokemon to replace one of your party members, and there are also things like status effects and items.
+You get given a random team of pokemon with a random set of moves (the only logic for picking the moves was the type of the move). You then either battle a wild pokemon or a trainer. Winning gives you points and it's game over if you lose the battle. I added pokeballs to catch the wild pokemon to replace one of your party members, and there are also things like status effects and items.
 
 ---
 
